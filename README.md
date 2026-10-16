@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Leandro Mendieta!
+
 
 <div align="center">
 
