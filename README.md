@@ -1,67 +1,92 @@
+# 👋 Olá, eu sou Leandro Mendieta!
+
 <div align="center">
 
-# Leandro Mendieta
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:4338CA,100:06B6D4&height=180&section=header&text=Leandro%20Mendieta&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analytics%20%7C%20Python%20%7C%20SQL&descAlignY=65&descSize=16" width="100%" alt="Cabeçalho do perfil"/>
 
-**Desenvolvedor Full Stack · Full Stack Developer**
+  **Estudante de Análise e Desenvolvimento de Sistemas**  
+  Explorando dados, desenvolvendo soluções e transformando informações em conhecimento.
 
-Estudante de ADS buscando estágio ou vaga júnior em desenvolvimento de software.
-<br/>
-ADS student seeking an internship or junior role in software development.
-
-📍 Campo Grande, MS — Brasil · Remoto / Remote
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-mendieta)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leandro.mendisantos@gmail.com)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
 
 ---
 
-## Sobre mim · About me
+## 🧑‍💻 Sobre mim
 
-**PT** — Curso ADS na UNIGRAN (previsão: dez/2026). Tenho experiência construindo agentes de automação com WhatsApp, OpenAI e N8N. Gosto de trabalhar em todo o stack e tenho interesse crescente em segurança de aplicações.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em Análise de Dados, Engenharia de Dados e Machine Learning.
 
-**EN** — Studying Systems Analysis & Development at UNIGRAN (graduating Dec/2026). I have hands-on experience building WhatsApp automation agents with OpenAI and N8N. I enjoy working across the whole stack and have a growing interest in application security.
+Meu foco é aprender construindo projetos práticos, utilizando programação, estatística e bancos de dados para investigar problemas, identificar padrões e gerar informações úteis para o negócio.
 
----
+- 📊 Desenvolvendo projetos de análise exploratória e indicadores de negócio.
+- 🐍 Utilizando Python e bibliotecas de análise e visualização de dados.
+- 🗄️ Trabalhando com SQL e PostgreSQL para consultar e organizar dados.
+- 📈 Explorando Power BI para comunicar resultados de forma visual.
+- 🤖 Estudando estatística aplicada e Machine Learning.
+- 🎯 Em busca de uma oportunidade de estágio na área de Dados.
 
-## Stack
-
-**Backend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Banco de dados · Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Ferramentas · Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-
----
-
-## GitHub Stats
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lelekndr&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lelekndr&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=python,js,ts" alt="Python, JavaScript e TypeScript"/>
+
+### Dados e visualização
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+### Bancos de dados e ferramentas
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" alt="PostgreSQL, Git, GitHub e VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+
+</div>
+
+## 📂 Projetos e estudos
+
+| Projeto | Foco | Tecnologias |
+|---|---|---|
+| Análise do comportamento de consumidores | Análise exploratória, padrões de consumo e visualização | Python, Pandas, SQL, Power BI |
+| Análise de vendas e indicadores | Consultas analíticas e métricas de negócio | SQL, PostgreSQL, Power BI |
+| Pipeline de dados | Extração, transformação e armazenamento automatizado | Python, APIs, PostgreSQL, Docker |
+| Customer Churn | Estatística, análise de variáveis e previsão de cancelamento | Python, SQL, Pandas, scikit-learn |
+
+*Os projetos representam minha trilha de desenvolvimento e estudos; consulte os repositórios para verificar o andamento e as implementações disponíveis.*
+
+## 📈 GitHub
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lelekndr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelekndr&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+
+</div>
+
+## 🌱 Aprendizado contínuo
+
+Acredito que a melhor forma de aprender tecnologia é aplicando conceitos em problemas concretos. Por isso, procuro evoluir por meio de projetos que envolvam investigação de dados, consultas SQL, análise estatística, automação, visualização e experimentação com modelos de Machine Learning.
+
+Cada repositório é uma oportunidade de praticar, documentar decisões e aprimorar minhas habilidades.
+
+---
+
+<div align="center">
+
+  **Obrigado pela visita!** 🚀
+
+  <a href="https://github.com/lelekndr">
+    <img src="https://img.shields.io/badge/Explore%20meus%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"/>
+  </a>
+
 </div>
